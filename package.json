@@ -1,0 +1,25 @@
+{
+  "name": "amp-creator",
+  "version": "1.0.0",
+  "description": "Webpack Google Acelerated Mobile Pages Creator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "keywords": [
+    "webpack",
+    "amp",
+    "es6"
+  ],
+  "author": "David Balan",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "require": "^2.4.20",
+    "static-site-generator-webpack-plugin": "^3.4.1",
+    "webpack": "^3.4.1"
+  }
+}
